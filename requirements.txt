@@ -1,0 +1,16 @@
+# Firewall Report - Requirements
+# ===============================
+# This project uses only Python standard library.
+# No additional Python packages are required.
+#
+# System Requirements:
+# - Python 3.9 or higher
+# - whois CLI tool (for Whois lookups)
+#
+# Installation:
+#   Debian/Ubuntu: sudo apt-get install -y whois
+#   CentOS/RHEL:   sudo yum install -y whois
+#   macOS:         brew install whois
+#
+# Optional:
+# - IPINFO_TOKEN environment variable for ipinfo.io API (optional, for higher rate limits)
